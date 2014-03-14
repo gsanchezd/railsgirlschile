@@ -1,3 +1,40 @@
-// Place all the styles related to the welcome controller here.
+/*// Place all the styles related to the welcome controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+*/
+
+body {
+  font-family: "expressway", 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: bold;
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  height: 70px;
+  color: #fff;
+  background: #D3360B;
+  padding: 20px;
+}
+
+h1 { font-size: 40px; }
+#sign-up {
+  margin: 60px;
+  border-radius: 20px;
+  padding: 20px;
+  width: 200px;
+  float: right;
+  background-color: white;
+  color: #D3360B;
+  text-align: center;
+}
+
+input {
+  height: 20px;
+  width: 160px;
+  margin-bottom: 20px;
+}
+  
+#banner {
+  margin-bottom: 30px;
+}  
